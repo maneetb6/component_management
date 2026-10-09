@@ -1,4 +1,4 @@
-# UBC Formula E — Component Manager
+# UBC Formula E: Component Manager (CPEN 221A MP1)
 
 A simple web app for UBC Formula Electric to keep track of car components: what we have, how many, where it's stored, and what state it's in.
 
